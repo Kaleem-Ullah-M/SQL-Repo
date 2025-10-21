@@ -1,0 +1,1 @@
+# This repo has the SQL projects and practices that I did.
