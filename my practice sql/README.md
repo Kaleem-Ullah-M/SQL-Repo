@@ -1,4 +1,4 @@
-# this repo contains my sql practice and sql projects.
+# This repo contains my sql practice and sql projects.
 
-# practice 1.
+# Practice 1:
 this practice is a basic practice of the sql commands.
