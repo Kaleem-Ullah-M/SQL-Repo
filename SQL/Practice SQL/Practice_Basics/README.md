@@ -1,0 +1,1 @@
+# These are Basic SQL Practices.
